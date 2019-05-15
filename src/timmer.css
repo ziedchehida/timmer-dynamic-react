@@ -1,0 +1,40 @@
+.chrono{
+    margin: 50px;
+    padding: 30px;
+    border: solid;
+    display: inline-block;
+    border-radius: 50px;
+}
+.btn1{
+    padding:5px 0 5px 0;
+	font:bold 15px Arial;
+	background:#6f91c7;
+	color:#fff;
+	border-radius:3px;
+	width:100px;
+    border:none;
+    margin-top: 10px;
+}
+.btn2{
+    padding:5px 0 5px 0;
+	font:bold 15px Arial;
+	background:#76c76f;
+	color:#fff;
+	border-radius:3px;
+	width:100px;
+    border:none;
+    margin-top: 10px;
+}
+.btn3{
+    padding:5px 0 5px 0;
+	font:bold 15px Arial;
+	background:rgb(238, 95, 95);
+	color:#fff;
+	border-radius:3px;
+	width:100px;
+    border:none;
+    margin-top: 10px;
+}
+.btns{
+    margin-top: 10px;
+}
